@@ -15,6 +15,7 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'carrierwave', '~> 0.10.0'
 gem 'fog'
 gem 'mini_magick'
+gem 'aws-sdk'
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 
