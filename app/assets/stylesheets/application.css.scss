@@ -25,6 +25,7 @@
 
  body {
  	background: rgb(235, 238, 243);
+	padding: 20px;
  }
 
  .main_content {
@@ -45,6 +46,7 @@
  	margin-bottom: 50px;
  	@include box-shadow;
  	border: none;
+	padding-right: 20px;
  	.navbar-brand {
  		text-transform: uppercase;
  		letter-spacing: -1px;
