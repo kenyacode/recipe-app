@@ -16,6 +16,7 @@ gem 'cocoon', '~> 1.2.6'
 gem 'devise', '~> 3.5', '>= 3.5.6'
 gem 'carrierwave'
 gem 'rmagick'
+gem 'fog'
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 
