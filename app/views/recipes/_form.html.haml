@@ -7,9 +7,8 @@
 			%ul
 				%li= msg
 	.panel-body
-		= f.input :title, input_html: { class: 'form-control' }
-		= f.input :description, input_html: { class: 'form-control' }
-		= f.input :image, input_html: { class: 'form-control' }
+		= f.input :title, label: "Name", input_html: { class: 'form-control' }
+		= f.input :image, label: "Picture",input_html: { class: 'form-control' }
 
 		.row
 			.col-md-6

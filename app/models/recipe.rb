@@ -6,6 +6,6 @@ class Recipe < ActiveRecord::Base
 	accepts_nested_attributes_for :ingredients, reject_if: :all_blank, allow_destroy: true
 	accepts_nested_attributes_for :directions, reject_if: :all_blank, allow_destroy: true
 
-	validates :title, :description, presence: true
+	validates :title, presence: true
 	mount_uploader :image, ImageUploader
 end

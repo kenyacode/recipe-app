@@ -1,11 +1,10 @@
 .main_content
 	#recipe_top.row
 		.col-md-4
-			= image_tag @recipe.image_url.to_s, class: "recipe_image"
+			= image_tag @recipe.image_url(:thumb).to_s, class: "recipe_image"
 		.col-md-8
 			#recipe_info
 				%h1= @recipe.title
-				%p.description= @recipe.description
 				%p
 					Submitted by
 					= @recipe.user.email

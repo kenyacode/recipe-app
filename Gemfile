@@ -15,6 +15,7 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'cocoon', '~> 1.2.6'
 gem 'devise', '~> 3.5', '>= 3.5.6'
 gem 'carrierwave'
+gem 'rmagick'
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 
