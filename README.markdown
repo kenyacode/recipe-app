@@ -69,6 +69,8 @@ Create a User, Create a new Recipe: A name is required.
 ###I learned to code at [generalassemb.ly] ![ga logo](https://media.licdn.com/media/p/3/005/0a3/2df/1671d50.png)
 ###[LinkedIn](https://www.linkedin.com/in/kenyacode)
 ###[Email Me](mailto:kenyadevelop@gmail.com)
-####[Blog app](https://github.com/kenyacode/blog)
-####[Raddit app](https://github.com/kenyacode/raddit)
+####[Blog app](https://github.com/kenyacode/blog) Live [jmblog]
+####[Raddit app](https://github.com/kenyacode/raddit) Live [jmraddit]
 [generalassemb.ly]:https://generalassemb.ly/
+[jmblog]:https://jmblog.herokuapp.com/
+[jmraddit]:https://jmraddit.herokuapp.com/
