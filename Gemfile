@@ -2,9 +2,6 @@ source 'https://rubygems.org'
 
 ruby '2.2.2'
 gem 'rails', '4.2.1'
-gem 'sass-rails', '~> 5.0'
-gem 'coffee-rails', '~> 4.1.0'
-gem 'uglifier'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
@@ -33,4 +30,11 @@ group :production do
 	gem 'pg'
 	gem 'puma'
 	gem 'rails_12factor'
+end
+
+group :assets do
+  gem 'therubyracer'
+	gem 'sass-rails', '~> 5.0'
+	gem 'coffee-rails', '~> 4.1.0'
+  gem 'uglifier'
 end
