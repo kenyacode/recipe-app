@@ -15,6 +15,3 @@
 /log/*
 !/log/.keep
 /tmp
-public/uploads/
-config/initializers/carrierwave.rb
-config/secrets.yml
