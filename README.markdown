@@ -61,6 +61,7 @@ Run rails server and go to locolhost:3000
 
 Create a User, Create a new Recipe: A name is required.
 
+Check it out live on Heroku [Recipe App](https://chakula.herokuapp.com)
 
 # ABOUT THE DEVELOPER
 
@@ -69,8 +70,11 @@ Create a User, Create a new Recipe: A name is required.
 ###I learned to code at [generalassemb.ly] ![ga logo](https://media.licdn.com/media/p/3/005/0a3/2df/1671d50.png)
 ### Contact Me [LinkedIn](https://www.linkedin.com/in/kenyacode) or [Email](mailto:kenyadevelop@gmail.com)
 ###My other Apps
-####Github Repo [Blog app](https://github.com/kenyacode/blog) Live on Heroku [jmblog]
-####Github Repo [Raddit app](https://github.com/kenyacode/raddit) Live on Heroku  [jmraddit]
+####[Blog app repo](https://github.com/kenyacode/blog) Live on Heroku [jmblog]
+####[Raddit app repo](https://github.com/kenyacode/raddit) Live on Heroku  [jmraddit]
+####[Pin Board repo](https://github.com/kenyacode/pin_board) Live on Heroku [pintirest]
+
 [generalassemb.ly]:https://generalassemb.ly/
 [jmblog]:https://jmblog.herokuapp.com/
 [jmraddit]:https://jmraddit.herokuapp.com/
+[pintirest]:https://pintirest.herokuapp.com/
