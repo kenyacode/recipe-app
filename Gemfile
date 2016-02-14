@@ -9,13 +9,11 @@ gem 'github-markup', '~> 1.4'
 gem 'haml', '~> 4.0.5'
 gem 'simple_form', '~> 3.0.2'
 gem 'bootstrap-sass', '~> 3.3.6'
-gem 'cocoon', '~> 1.2.6'
+gem 'cocoon', '~> 1.2', '>= 1.2.7'
 gem 'devise', '~> 3.5', '>= 3.5.6'
 gem 'carrierwave'
 gem 'rmagick'
 gem 'fog'
-gem 'carrierwave_direct'
-gem 'sidekiq'
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 

@@ -2,7 +2,7 @@
 
 class ImageUploader < CarrierWave::Uploader::Base
 # Process your uploads in the background by uploading directly to S3
-	include CarrierWaveDirect::Uploader
+	# include CarrierWaveDirect::Uploader
 
   # Include RMagick or MiniMagick support:
   include CarrierWave::RMagick
