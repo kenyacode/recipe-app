@@ -61,7 +61,7 @@ Run rails server and go to locolhost:3000
 
 Create a User, Create a new Recipe: A name is required.
 
-Check it out live on Heroku [Recipe App](https://chakula.herokuapp.com)
+Check it out live on Heroku [chakula.herokuapp.com]
 
 # ABOUT THE DEVELOPER
 
@@ -69,12 +69,36 @@ Check it out live on Heroku [Recipe App](https://chakula.herokuapp.com)
 
 ###I learned to code at [generalassemb.ly] ![ga logo](https://media.licdn.com/media/p/3/005/0a3/2df/1671d50.png)
 ### Contact Me [LinkedIn](https://www.linkedin.com/in/kenyacode) or [Email](mailto:kenyadevelop@gmail.com)
-###My other Apps
-####[Blog app repo](https://github.com/kenyacode/blog) Live on Heroku [jmblog]
-####[Raddit app repo](https://github.com/kenyacode/raddit) Live on Heroku  [jmraddit]
-####[Pin Board repo](https://github.com/kenyacode/pin_board) Live on Heroku [pintirest]
+####Check out my other Apps
+Github Page    | Live Site
+------------------- | ----------
+ [Blog app]         | [jmblog.herokuapp.com]
+ [Raddit app]       | [jmraddit.herokuapp.com]
+ [Recipe app]       | [chakula.herokuapp.com]
+ [Pin Board app]    | [pintirest.herokuapp.com]
+ [Movie Review app] | [jmovie.herokuapp.com]
+ [Checktodo app]    | [checktodo.herokuapp.com]
+ [Jobs Board app]   | [hire-dev.herokuapp.com]
 
-[generalassemb.ly]:https://generalassemb.ly/
-[jmblog]:https://jmblog.herokuapp.com/
-[jmraddit]:https://jmraddit.herokuapp.com/
-[pintirest]:https://pintirest.herokuapp.com/
+[Blog app]:https://github.com/kenyacode/blog
+[jmblog.herokuapp.com]:https://jmblog.herokuapp.com
+
+[Raddit app]:https://github.com/kenyacode/raddit
+[jmraddit.herokuapp.com]:https://jmraddit.herokuapp.com
+
+[Recipe app]:https://github.com/kenyacode/recipe-app
+[chakula.herokuapp.com]:https://chakula.herokuapp.com
+
+[Pin Board app]:https://github.com/kenyacode/pin_board
+[pintirest.herokuapp.com]:https://pintirest.herokuapp.com
+
+[Checktodo app]:https://github.com/kenyacode/checktodo
+[checktodo.herokuapp.com]:https://checktodo.herokuapp.com/
+
+[Jobs Board app]:https://github.com/kenyacode/jobs_board
+[hire-dev.herokuapp.com]:https://hire-dev.herokuapp.com
+
+[Movie Review app]:https://github.com/kenyacode/movie_review
+[jmovie.herokuapp.com]:https://jmovie.herokuapp.com
+
+[generalassemb.ly]:https://generalassemb.ly
