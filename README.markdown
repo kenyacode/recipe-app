@@ -61,7 +61,7 @@ Run rails server and go to locolhost:3000
 
 Create a User, Create a new Recipe: A name is required.
 
-Check it out live on Heroku [chakula.herokuapp.com]
+Check it out live on Heroku [chakula.herokuapp.com] - no longer using herokuapp Aug 2021
 
 # ABOUT THE DEVELOPER
 
@@ -79,6 +79,8 @@ Github Page    | Live Site
  [Movie Review app] | [jmovie.herokuapp.com]
  [Checktodo app]    | [checktodo.herokuapp.com]
  [Jobs Board app]   | [hire-dev.herokuapp.com]
+
+- no longer using herokuapp Aug 2021
 
 [Blog app]:https://github.com/kenyacode/blog
 [jmblog.herokuapp.com]:https://jmblog.herokuapp.com
